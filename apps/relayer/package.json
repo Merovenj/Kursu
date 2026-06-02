@@ -1,0 +1,15 @@
+{
+  "name": "@kursu/relayer",
+  "version": "0.0.1",
+  "type": "module",
+  "license": "AGPL-3.0-only",
+  "scripts": { "dev": "node src/index.js", "test": "echo ok", "lint": "echo ok", "build": "echo ok" },
+  "dependencies": {
+    "@kursu/eligibility": "workspace:*",
+    "@kursu/identity": "workspace:*",
+    "@kursu/governance": "workspace:*",
+    "@kursu/ledger": "workspace:*",
+    "express": "^4.19.0",
+    "cors": "^2.8.5"
+  }
+}
