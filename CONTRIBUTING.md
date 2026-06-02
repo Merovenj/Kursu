@@ -158,3 +158,16 @@ If you discover a security vulnerability, please report it responsibly by follow
 ## 9. License
 
 By contributing to KÜRSÜ, you agree that your contributions will be licensed under the project's [AGPL-3.0-only License](./LICENSE).
+
+## 10. Recognition — see CONTRIBUTORS.md
+
+KÜRSÜ is a commons; everyone who moves it forward is recognized in
+[CONTRIBUTORS.md](./CONTRIBUTORS.md). Code is one contribution type among
+many — design, docs, security/crypto review, translation, coordination,
+treasury work, testing, ideas, and review all count and all appear in the
+contributors list. CONTRIBUTORS.md also names the upstream projects KÜRSÜ
+builds on (ElectAnon, Semaphore, MACI, Helios) and where the design
+deliberately diverges from each, and describes the soulbound *KÜRSÜ Medal*
+— recognition only, never payment, never a claim on the project.
+
+When you open your first PR, please add yourself to the contributors table.
