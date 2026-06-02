@@ -29,14 +29,14 @@ Our unique contributions, detailed further in [`docs/PRIOR_ART.md`](./docs/PRIOR
 
 ```mermaid
 graph TD
-    A[Eligibility Source (e-Devlet / Mock / ...)] --> B{Prove 
-"is a member"} --> C[KÜRSÜ]
-    C --> D[① Eligibility Adapter (packages/...)]
-    D -- ephemeral, nothing stored --> E[② Blind Enrollment → Semaphore Group]
-    E -- identity commitment + nullifier --> F[③ Propose / Endorse (Threshold)]
-    F --> G[④ Vote (Semaphore → MACI for critical)]
-    G --> H[⑤ Append-only PUBLIC Ledger]
-    H -- no identity ever written --> I[Anyone runs a verifier node]
+    A["Eligibility Source (e-Devlet / Mock / ...)"] --> B{"Prove<br/>'is a member'"}
+    B --> C[KÜRSÜ]
+    C --> D["① Eligibility Adapter (packages/...)"]
+    D -- "ephemeral, nothing stored" --> E["② Blind Enrollment → Semaphore Group"]
+    E -- "identity commitment + nullifier" --> F["③ Propose / Endorse (Threshold)"]
+    F --> G["④ Vote (Semaphore → MACI for critical)"]
+    G --> H["⑤ Append-only PUBLIC Ledger"]
+    H -- "no identity ever written" --> I[Anyone runs a verifier node]
 ```
 
 For a more in-depth understanding, please refer to:
