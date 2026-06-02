@@ -1,0 +1,8 @@
+{
+  "name": "@kursu/governance",
+  "version": "0.0.1",
+  "type": "module",
+  "license": "AGPL-3.0-only",
+  "main": "src/index.js",
+  "scripts": { "test": "node --test", "lint": "echo ok", "build": "echo ok" }
+}
