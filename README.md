@@ -1,3 +1,5 @@
+> **English** | [Türkçe](README.tr.md)
+
 # KÜRSÜ: An Open, Verifiable, Decentralized Platform for Grassroots Governance
 
 ![KÜRSÜ Logo Placeholder](docs/assets/kursu-logo.png)

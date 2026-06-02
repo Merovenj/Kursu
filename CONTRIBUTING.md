@@ -1,3 +1,5 @@
+> **English** | [Türkçe](CONTRIBUTING.tr.md)
+
 # Contributing to KÜRSÜ
 
 We welcome and appreciate contributions from the community to make KÜRSÜ a robust and impactful platform. This document outlines the guidelines for contributing to the KÜRSÜ project. By participating, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
