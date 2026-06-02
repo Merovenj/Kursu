@@ -1,0 +1,16 @@
+# KÜRSÜ funding configuration
+# Uncomment and fill in a line below when a funding destination is set up.
+# Funding routes should be consistent with TREASURY.md (multi-sig, no equity,
+# no salaries; cash only for the audit, infra, hardware keys, accessibility).
+
+# github: [vedatgurer]
+# patreon: # username
+# open_collective: # slug
+# ko_fi: # username
+# tidelift: # platform-name/package-name
+# community_bridge: # project-name
+# liberapay: # username
+# issuehunt: # username
+# otechie: # username
+# lfx_crowdfunding: # project-name
+# custom: ["https://example.org/treasury"]
